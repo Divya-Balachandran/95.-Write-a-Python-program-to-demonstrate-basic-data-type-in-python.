@@ -1,0 +1,1 @@
+# 95.-Write-a-Python-program-to-demonstrate-basic-data-type-in-python.
